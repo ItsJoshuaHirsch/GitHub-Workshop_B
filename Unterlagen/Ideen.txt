@@ -1,0 +1,3 @@
+1. Text ändern zu: Hallo [Eigener_Name] (bei index.html <title> und <h1>)
+2. Der README.md passenden Text hinzufügen
+3. Hier einen neuen, beliebigen 4. Punkt hinzufügen
